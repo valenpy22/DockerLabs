@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f6cb2ee288bd73e3",
@@ -169,11 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a53067b5fba1f69",
+  "active": "ceaf0951256f0a80",
   "lastOpenFiles": [
-    "Pasted image 20250713213937.png",
-    "Pasted image 20250713213606.png",
-    "Pasted image 20250713212656.png",
+    "psycho/Pasted image 20250713213937.png",
+    "psycho/Pasted image 20250713213606.png",
+    "psycho/Pasted image 20250713212656.png",
     "psycho/Pasted image 20250713212117.png",
     "psycho/Escalado de privilegios.md"
   ]
