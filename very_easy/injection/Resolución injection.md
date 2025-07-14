@@ -1,4 +1,6 @@
 # Herramientas
+- Nmap
+- GTFOBins
 
 # 1. Escaneo
 Se hace un escaneo con nmap en todos los puertos de la IP y se encuentra esto:
