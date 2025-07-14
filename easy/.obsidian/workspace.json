@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "5c1d8b0d029c6fcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "64a9980055466e3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a53067b5fba1f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "psycho/Escalado de privilegios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Escalado de privilegios"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3494d26b8466bfcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f875456a54e2a597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceaf0951256f0a80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a01d79055b54b4bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53f867b6b0dc01d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f6cb2ee288bd73e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5666a33debb34254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f17d31d6f96a37a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "psycho/Escalado de privilegios.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Escalado de privilegios"
+            }
+          },
+          {
+            "id": "b6ef0bc597c8ce11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "psycho/Escalado de privilegios.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Escalado de privilegios"
+            }
+          },
+          {
+            "id": "f34e5c7288725a0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "860cee517aeb58ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "psycho/Escalado de privilegios.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Escalado de privilegios"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a53067b5fba1f69",
+  "lastOpenFiles": [
+    "Pasted image 20250713213937.png",
+    "Pasted image 20250713213606.png",
+    "Pasted image 20250713212656.png",
+    "psycho/Pasted image 20250713212117.png",
+    "psycho/Escalado de privilegios.md"
+  ]
+}
