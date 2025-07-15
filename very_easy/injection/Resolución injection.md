@@ -2,7 +2,7 @@
 - Nmap
 - GTFOBins
 
-# 1. Escaneo
+# Procedimiento
 Se hace un escaneo con nmap en todos los puertos de la IP y se encuentra esto:
  ```bash
  nmap -p- 172.17.0.3                                                         

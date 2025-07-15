@@ -1,5 +1,9 @@
 # Herramientas
-# 1. Escaneo
+- Nmap
+- Gobuster
+- SecLists
+- Hydra
+# Procedimiento
 Escaneamos con nmap y podemos ver que los puertos 22 y 80 estám abiertos. 
 ```bash
 nmap -p- 172.22.0.2                                                         

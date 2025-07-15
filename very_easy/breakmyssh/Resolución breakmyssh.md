@@ -1,6 +1,8 @@
 # Herramientas
-
-# 1. Escaneo
+- Nmap
+- Hydra
+- SecLists
+# Procedimiento
 Hacemos el escaneo inicial con nmap y obtenemos esto:
 ```
 nmap -p- 172.17.0.3  
