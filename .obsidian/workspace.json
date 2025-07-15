@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "very_easy/vacaciones/Resolución vacaciones.md",
+                "file": "very_easy/borazuwarahctf/Resolución borazuwarahctf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resolución vacaciones"
+              "title": "Resolución borazuwarahctf"
             }
           }
         ],
@@ -178,12 +178,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "067c0bcacbe2c127",
+  "active": "92e8d6624f792aa9",
   "lastOpenFiles": [
+    "Pasted image 20250715153547.png",
+    "very_easy/vacaciones/Resolución vacaciones.md",
+    "very_easy/borazuwarahctf/Resolución borazuwarahctf.md",
+    "very_easy/borazuwarahctf/borazuwarahctf.tar",
+    "very_easy/borazuwarahctf/auto_deploy.sh",
+    "very_easy/borazuwarahctf",
+    "very_easy/borazuwarahctf.zip",
     "very_easy/vacaciones/Pasted image 20250715094057.png",
     "very_easy/vacaciones/Pasted image 20250715094025.png",
     "very_easy/breakmyssh/Resolución breakmyssh.md",
-    "very_easy/vacaciones/Resolución vacaciones.md",
     "very_easy/vacaciones/vacaciones.tar",
     "very_easy/vacaciones/auto_deploy.sh",
     "very_easy/vacaciones",
@@ -194,13 +200,9 @@
     "very_easy/injection/Pasted image 20250714102324.png",
     "very_easy/breakmyssh/auto_deploy.sh",
     "very_easy/breakmyssh/breakmyssh.tar",
-    "very_easy/breakmyssh",
-    "very_easy/breakmyssh.zip",
     "very_easy/trust/Pasted image 20250714112332.png",
     "very_easy/trust/Pasted image 20250714112015.png",
     "easy/psycho/Resolución psycho.md",
-    "very_easy/trust/auto_deploy.sh",
-    "very_easy/trust/trust.tar",
     "very_easy/injection/Pasted image 20250714102352.png"
   ]
 }
