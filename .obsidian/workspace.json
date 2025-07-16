@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "easy/pequenas-mentirosas/Resolución pequenas-mentirosas.md",
+                "file": "easy/whereismywebshell/Resolución whereismywebshell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resolución pequenas-mentirosas"
+              "title": "Resolución whereismywebshell"
             }
           }
         ],
@@ -178,11 +178,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92e8d6624f792aa9",
+  "active": "067c0bcacbe2c127",
   "lastOpenFiles": [
-    "Pasted image 20250715173127.png",
-    "easy/psycho/Resolución psycho.md",
+    "easy/whereismywebshell/Pasted image 20250716142125.png",
+    "easy/whereismywebshell/Pasted image 20250716141645.png",
+    "easy/whereismywebshell/Pasted image 20250716141605.png",
+    "easy/whereismywebshell/Pasted image 20250716140558.png",
+    "easy/whereismywebshell/Pasted image 20250716140447.png",
+    "easy/whereismywebshell/Pasted image 20250716140355.png",
+    "easy/whereismywebshell/Pasted image 20250716140338.png",
+    "easy/whereismywebshell/Pasted image 20250716140254.png",
+    "easy/pequenas-mentirosas/Pasted image 20250715173127.png",
+    "easy/whereismywebshell/Pasted image 20250716140218.png",
+    "easy/whereismywebshell/Resolución whereismywebshell.md",
     "easy/pequenas-mentirosas/Resolución pequenas-mentirosas.md",
+    "easy/psycho/Resolución psycho.md",
     "easy/pequenas-mentirosas/pequenas-mentirosas.tar",
     "easy/pequenas-mentirosas/auto_deploy.sh",
     "easy/pequenas-mentirosas",
@@ -195,19 +205,10 @@
     "very_easy/tproot/auto_deploy.sh",
     "very_easy/tproot",
     "very_easy/tproot.zip",
-    "very_easy/obsession/Pasted image 20250715165648.png",
-    "very_easy/obsession/Pasted image 20250715165328.png",
-    "very_easy/obsession/Pasted image 20250715165112.png",
-    "very_easy/obsession/Pasted image 20250715164933.png",
-    "very_easy/obsession/Pasted image 20250715164836.png",
-    "very_easy/obsession/Pasted image 20250715164719.png",
-    "very_easy/obsession/Pasted image 20250715163104.png",
     "very_easy/borazuwarahctf/Resolución borazuwarahctf.md",
     "very_easy/obsession/auto_deploy.sh",
     "very_easy/obsession/obsession.tar",
-    "very_easy/borazuwarahctf/Pasted image 20250715153547.png",
     "very_easy/vacaciones/Resolución vacaciones.md",
-    "very_easy/vacaciones/Pasted image 20250715094057.png",
     "very_easy/breakmyssh/Resolución breakmyssh.md",
     "very_easy/injection/Resolución injection.md",
     "very_easy/trust/Resolución trust.md"
