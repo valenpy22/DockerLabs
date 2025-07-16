@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "easy/nodeclimb/Resolución nodeclimb.md",
+                "file": "easy/library/Resolución library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resolución nodeclimb"
+              "title": "Resolución library"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "very_easy/injection/Resolución injection.md",
+                "file": "easy/library/Resolución library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Resolución injection"
+              "title": "Backlinks for Resolución library"
             }
           },
           {
@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -180,19 +180,24 @@
   },
   "active": "067c0bcacbe2c127",
   "lastOpenFiles": [
+    "easy/library/Pasted image 20250716185649.png",
+    "easy/library/Pasted image 20250716185432.png",
+    "easy/library/Pasted image 20250716185400.png",
+    "easy/library/Pasted image 20250716184503.png",
+    "easy/library/Pasted image 20250716184444.png",
+    "easy/library/Pasted image 20250716184251.png",
+    "easy/library/Pasted image 20250716184202.png",
+    "easy/nodeclimb/Resolución nodeclimb.md",
+    "easy/library/Resolución library.md",
+    "easy/library/auto_deploy.sh",
+    "easy/library/library.tar",
+    "easy/library/library.zip",
+    "easy/library",
     "easy/nodeclimb/Pasted image 20250716182011.png",
     "easy/nodeclimb/Pasted image 20250716181629.png",
     "easy/nodeclimb/Pasted image 20250716181521.png",
     "easy/nodeclimb/Pasted image 20250716180954.png",
-    "easy/nodeclimb/Pasted image 20250716180946.png",
-    "easy/nodeclimb/Pasted image 20250716180842.png",
-    "easy/nodeclimb/Pasted image 20250716175745.png",
-    "easy/nodeclimb/Pasted image 20250716175635.png",
     "easy/whereismywebshell/Resolución whereismywebshell.md",
-    "easy/nodeclimb/Resolución nodeclimb.md",
-    "easy/whereismywebshell/Pasted image 20250716142125.png",
-    "easy/whereismywebshell/Pasted image 20250716141645.png",
-    "easy/whereismywebshell/Pasted image 20250716141605.png",
     "easy/pequenas-mentirosas/Resolución pequenas-mentirosas.md",
     "easy/psycho/Resolución psycho.md",
     "easy/pequenas-mentirosas/pequenas-mentirosas.tar",
@@ -204,11 +209,7 @@
     "very_easy/obsession/Resolución obsession.md",
     "very_easy/tproot/tproot.tar",
     "very_easy/tproot/auto_deploy.sh",
-    "very_easy/tproot",
-    "very_easy/tproot.zip",
     "very_easy/borazuwarahctf/Resolución borazuwarahctf.md",
-    "very_easy/obsession/auto_deploy.sh",
-    "very_easy/obsession/obsession.tar",
     "very_easy/vacaciones/Resolución vacaciones.md",
     "very_easy/breakmyssh/Resolución breakmyssh.md",
     "very_easy/injection/Resolución injection.md",
