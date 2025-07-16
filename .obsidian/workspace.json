@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "easy/library/Resolución library.md",
+                "file": "easy/consolelog/Resolución consolelog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resolución library"
+              "title": "Resolución consolelog"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "easy/library/Resolución library.md",
+                "file": "easy/consolelog/Resolución consolelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Resolución library"
+              "title": "Backlinks for Resolución consolelog"
             }
           },
           {
@@ -180,35 +180,36 @@
   },
   "active": "067c0bcacbe2c127",
   "lastOpenFiles": [
+    "easy/consolelog/Pasted image 20250716194151.png",
+    "easy/consolelog/Pasted image 20250716194110.png",
+    "easy/consolelog/Pasted image 20250716193237.png",
+    "easy/consolelog/Pasted image 20250716192851.png",
+    "easy/consolelog/Pasted image 20250716192550.png",
+    "easy/consolelog/Pasted image 20250716192502.png",
+    "easy/consolelog/Pasted image 20250716192406.png",
+    "easy/consolelog/Pasted image 20250716192233.png",
+    "easy/library/Resolución library.md",
+    "easy/consolelog/Resolución consolelog.md",
+    "easy/consolelog/consolelog.tar",
+    "easy/consolelog/auto_deploy.sh",
+    "easy/consolelog/consolelog.zip",
+    "easy/consolelog",
     "easy/library/Pasted image 20250716185649.png",
     "easy/library/Pasted image 20250716185432.png",
     "easy/library/Pasted image 20250716185400.png",
-    "easy/library/Pasted image 20250716184503.png",
-    "easy/library/Pasted image 20250716184444.png",
-    "easy/library/Pasted image 20250716184251.png",
-    "easy/library/Pasted image 20250716184202.png",
     "easy/nodeclimb/Resolución nodeclimb.md",
-    "easy/library/Resolución library.md",
     "easy/library/auto_deploy.sh",
     "easy/library/library.tar",
     "easy/library/library.zip",
     "easy/library",
-    "easy/nodeclimb/Pasted image 20250716182011.png",
-    "easy/nodeclimb/Pasted image 20250716181629.png",
-    "easy/nodeclimb/Pasted image 20250716181521.png",
-    "easy/nodeclimb/Pasted image 20250716180954.png",
     "easy/whereismywebshell/Resolución whereismywebshell.md",
     "easy/pequenas-mentirosas/Resolución pequenas-mentirosas.md",
     "easy/psycho/Resolución psycho.md",
     "easy/pequenas-mentirosas/pequenas-mentirosas.tar",
     "easy/pequenas-mentirosas/auto_deploy.sh",
-    "easy/pequenas-mentirosas",
-    "easy/pequenas-mentirosas.zip",
     "very_easy/tproot/Resolución tproot.md",
     "very_easy/firsthacking/Resolución firsthacking.md",
     "very_easy/obsession/Resolución obsession.md",
-    "very_easy/tproot/tproot.tar",
-    "very_easy/tproot/auto_deploy.sh",
     "very_easy/borazuwarahctf/Resolución borazuwarahctf.md",
     "very_easy/vacaciones/Resolución vacaciones.md",
     "very_easy/breakmyssh/Resolución breakmyssh.md",
